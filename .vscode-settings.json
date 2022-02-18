@@ -1,0 +1,63 @@
+{
+    "terminal.integrated.defaultProfile.osx" : "bash", 
+    "console": "internalConsole", 
+    "bracket-pair-colorizer-2.depreciation-notice" : false,
+    "editor.cursorBlinking" : "smooth",
+    "editor.cursorSmoothCaretAnimation" : true,
+    "terminal.integrated.inheritEnv" : false,
+    "workbench.editor.enablePreviewFromQuickOpen" : true,
+    "redhat.telemetry.enabled" : false,
+    "editor.suggestSelection" : "first",
+    "files.autoSaveDelay" : 2000,
+    "editor.formatOnPaste" : true,
+    "explorer.confirmDragAndDrop" : false,
+    "files.autoSave" : "afterDelay",
+    "[latex]" : {
+      "editor.defaultFormatter" : "nickfode.latex-formatter"
+    },
+    "diffEditor.ignoreTrimWhitespace" : false,
+    "window.newWindowDimensions" : "maximized",
+    "editor.cursorStyle" : "block",
+    "git.confirmSync" : false,
+    "editor.accessibilitySupport" : "on",
+    "[html]" : {
+      "editor.defaultFormatter" : "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor" : "none",
+    "editor.find.autoFindInSelection" : "multiline",
+    "terminal.integrated.cursorBlinking" : true,
+    "[javascript]" : {
+      "editor.defaultFormatter" : "vscode.typescript-language-features"
+    },
+    "editor.bracketPairColorization.enabled" : true,
+    "vsicons.dontShowNewVersionMessage" : true,
+    "security.workspace.trust.banner" : "never",
+    "debug.internalConsoleOptions" : "neverOpen",
+    "vsintellicode.modify.editor.suggestSelection" : "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.linux" : "\/bin\/bash",
+    "python.languageServer" : "Jedi",
+    "terminal.integrated.defaultProfile.windows" : "Ubuntu (WSL)",
+    "files.autoGuessEncoding" : true,
+    
+    "workbench.editorAssociations" : {
+      "*.ipynb" : "jupyter-notebook"
+    },
+    "git.autofetch" : true,
+    "editor.inlineSuggest.enabled" : true,
+    "workbench.colorTheme" : "Thec",
+    "git.enableSmartCommit" : true,
+    "files.exclude" : {
+      "**\/.project" : true,
+      "**\/.settings" : true,
+      "**\/.classpath" : true,
+      "**\/.DS_Store" : false,
+      "**\/.factorypath" : true
+    },
+    "telemetry.telemetryLevel" : "off",
+    "audioCues.enabled" : "off",
+    "diffEditor.codeLens" : true,
+    "[json]" : {
+      "editor.defaultFormatter" : "vscode.json-language-features"
+    }
+  }
+  
